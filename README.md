@@ -1,2 +1,3 @@
-# sonatrach-rop-predition
-Machine learning model to predict Rate of Penetration (ROP) of Sonatrach drilling machines
+# Sonatrach ROP predition
+I developed an accurate predictive model to predict the rate of penetration (ROP) in Sonatrach drilling operations. ROP is a crucial parameter that determines the efficiency of drilling operations in the energy sector. Accurately predicting ROP can lead to significant cost savings and improved drilling efficiency. However, predicting ROP is a complex problem that requires the analysis of various drilling parameters, such as the weight on bit, the rotation speed, the mud properties and many others.
+My contribution to this project included data cleaning and processing to eliminate errors and outliers, extraction of the most relevant attributes to predict the ROP, and using an ensemble technique, Adaboost with Random Forest as the base estimator, to train the model. The dataset used for training contained a range of drilling parameters collected during drilling operations in Sonatrach wells during a certain period of time. My model achieved good results in accurately predicting ROP.
